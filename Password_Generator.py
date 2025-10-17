@@ -16,3 +16,4 @@ else:
 password = ''.join(random.choice(all_characters) for _ in range(length))
 
 print("\nYour generated password is:", password)
+print("\nYour generated password is:", password)
